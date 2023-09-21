@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-21T15:25:45 IST" name="Default suite" finished-at="2023-09-21T15:26:54 IST" duration-ms="69263">
+    <groups>
+    </groups>
+    <test started-at="2023-09-21T15:25:45 IST" name="Default test" finished-at="2023-09-21T15:26:54 IST" duration-ms="69263">
+      <class name="AnjaliAppiumProject.EcommerceT1">
+        <test-method signature="FillFormTest()[pri:0, instance:AnjaliAppiumProject.EcommerceT1@65f8f5ae]" started-at="2023-09-21T15:25:45 IST" name="FillFormTest" finished-at="2023-09-21T15:26:54 IST" duration-ms="69123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillFormTest -->
+      </class> <!-- AnjaliAppiumProject.EcommerceT1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
